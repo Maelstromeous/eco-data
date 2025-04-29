@@ -1,6 +1,6 @@
 <template>
   <v-container>
-    <v-simple-table>
+    <v-table>
       <thead>
         <tr>
           <th class="text-left">Crop</th>
@@ -11,37 +11,35 @@
         <tr v-for="crop in sortedCrops" :key="crop">
           <td>{{ crop }}</td>
           <td>
-            <v-text-field
-              v-model.number="amounts[crop]"
-              type="number"
-              min="0"
-              dense
-              hide-details
-              style="max-width: 80px"
-            />
+            <b>{{ amounts[crop] }}</b>
           </td>
         </tr>
       </tbody>
-    </v-simple-table>
+    </v-table>
   </v-container>
 </template>
 
 <script setup lang="ts">
 import { reactive, computed } from 'vue'
+import type {Data} from "@/interfaces/data.ts";
 
 // Props: list of crop names
-const props = defineProps<{ crops: string[] }>()
+const props = defineProps<{
+  data: Data,
+  current: Record<string, number>
+  targets: Record<string, number>
+}>()
 
 // Reactive map of crop name -> amount
 const amounts = reactive<Record<string, number>>({})
 // Initialize all amounts to zero
-props.crops.forEach(crop => {
+props.data.crops.forEach(crop => {
   amounts[crop] = 0
 })
 
 // Sorted list of crops
 const sortedCrops = computed(() => {
-  return [...props.crops].sort((a, b) => a.localeCompare(b))
+  return [...props.data.crops].sort((a, b) => a.localeCompare(b))
 })
 </script>
 

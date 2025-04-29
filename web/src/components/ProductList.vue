@@ -75,16 +75,13 @@
 </template>
 
 <script setup lang="ts">
-import { reactive, computed } from 'vue'
-import type { Product } from '@/interfaces/data'
+import { computed } from 'vue'
+import type {Data, Product} from '@/interfaces/data'
 
-// Props: pass in the combined data object
-interface Combined {
-  items: string[]
-  products: Product[]
-}
 const props = defineProps<{
-  data: Combined
+  data: Data,
+  current: Record<string, number>
+  targets: Record<string, number>
 }>()
 
 // Group products by their crafting table
@@ -109,26 +106,7 @@ const sortedTables = computed<[string, Product[]][]>(() => {
     .sort(([a], [b]) => a.localeCompare(b))
 })
 
-// Reactive map of product name → target amount
-const targets = reactive<Record<string, number>>({})
-// Initialize all targets to zero
-props.data.products.forEach(p => {
-  targets[p.name] = 0
-})
 
-// Reactive map of product name → target amount
-const current = reactive<Record<string, number>>({})
-// Initialize all current to zero
-props.data.products.forEach(p => {
-  current[p.name] = 0
-})
-
-// Reactive map of product name → current level (user-updated elsewhere)
-const currentLevels = reactive<Record<string, number>>({})
-// Initialize all current levels to zero
-props.data.products.forEach(p => {
-  currentLevels[p.name] = 0
-})
 </script>
 
 <style scoped>

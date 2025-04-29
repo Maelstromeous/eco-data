@@ -6,4 +6,8 @@ export interface Product {
   recipe: Ingredient[]
 }
 
-export type Data = { items: string[]; products: Product[] }
+export type Data = {
+  items: string[];
+  products: Product[];
+  crops: string[];
+}
