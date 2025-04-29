@@ -1,47 +1,26 @@
-<script setup>
-import HelloWorld from './components/HelloWorld.vue'
-import TheWelcome from './components/TheWelcome.vue'
-</script>
-
 <template>
-  <header>
-    <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
-
-    <div class="wrapper">
-      <HelloWorld msg="You did it!" />
-    </div>
-  </header>
-
-  <main>
-    <TheWelcome />
-  </main>
+  <CropSummary></CropSummary>
+  <ProductList></ProductList>
 </template>
 
-<style scoped>
-header {
-  line-height: 1.5;
+<script setup lang="ts">
+import ProductList from "@/components/ProductList.vue";
+import CropSummary from "@/components/CropSummary.vue";
+
+import { inject } from 'vue'
+
+interface Ingredient { id: string; amount: number }
+interface Product {
+  name: string
+  table: string
+  product_amount: number
+  recipe: Ingredient[]
 }
 
-.logo {
-  display: block;
-  margin: 0 auto 2rem;
-}
+type Data = { items: string[]; products: Product[] }
 
-@media (min-width: 1024px) {
-  header {
-    display: flex;
-    place-items: center;
-    padding-right: calc(var(--section-gap) / 2);
-  }
+const data = inject<Data>('data')
+if (!data) throw new Error('data not provided')
 
-  .logo {
-    margin: 0 2rem 0 0;
-  }
 
-  header .wrapper {
-    display: flex;
-    place-items: flex-start;
-    flex-wrap: wrap;
-  }
-}
-</style>
+</script>
