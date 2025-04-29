@@ -1,0 +1,2285 @@
+{
+  "items": [
+    "Acorn",
+    "Acorn Powder",
+    "Agave Leaves",
+    "Agouti Enchiladas",
+    "Autumn Stew",
+    "Baked Agave",
+    "Baked Beet",
+    "Baked Corn",
+    "Baked Heart Of Palm",
+    "Baked Meat",
+    "Baked Roast",
+    "Baked Taro",
+    "Baked Tomato",
+    "Banh Xeo",
+    "Bannock",
+    "Basic Salad",
+    "Bean Paste",
+    "Bean Sprout",
+    "Beans",
+    "Bear S U P R E M E",
+    "Bearclaw",
+    "Beet",
+    "Beet Campfire Salad",
+    "Beet Sugar",
+    "Bison Carcass",
+    "Bison Chow Fun",
+    "Blue Shark",
+    "Boiled Grains",
+    "Boiled Rice",
+    "Boiled Sausage",
+    "Bolete Mushrooms",
+    "Bread",
+    "Camas Bread",
+    "Camas Bulb",
+    "Camas Bulb Bake",
+    "Camas Paste",
+    "Campfire Animal Medium",
+    "Campfire Animal Small",
+    "Campfire Animal Tiny",
+    "Campfire Bison",
+    "Campfire Fish Large",
+    "Campfire Fish Medium",
+    "Campfire Fish Small",
+    "Campfire Pacific Sardine",
+    "Campfire Roast",
+    "Cereal Germ",
+    "Charcoal",
+    "Charred Agave",
+    "Charred Beans",
+    "Charred Beet",
+    "Charred Cactus Fruit",
+    "Charred Camas Bulb",
+    "Charred Corn",
+    "Charred Fireweed Shoots",
+    "Charred Fish",
+    "Charred Heart Of Palm",
+    "Charred Meat",
+    "Charred Mushrooms",
+    "Charred Papaya",
+    "Charred Pineapple",
+    "Charred Sausage",
+    "Charred Taro",
+    "Charred Tomato",
+    "Clam",
+    "Clam Chowder",
+    "Colored Powder",
+    "Computer Lab Lunch",
+    "Cookeina Mushrooms",
+    "Corn",
+    "Corn Fritters",
+    "Cornmeal",
+    "Cotton Seed",
+    "Cottonseed Oil",
+    "Crab Carcass",
+    "Crimini Mushrooms",
+    "Crimson Salad",
+    "Crispy Bacon",
+    "Elk Taco",
+    "Elk Wellington",
+    "Exotic Fruit Salad",
+    "Exotic Salad",
+    "Exotic Vegetable Medley",
+    "Fantastic Forest Pizza",
+    "Fat",
+    "Fern Campfire Salad",
+    "Fiddleheads",
+    "Field Campfire Stew",
+    "Fireweed Shoots",
+    "Fish N Chips",
+    "Fish Oil",
+    "Fish Stew",
+    "Fish Stock",
+    "Flatbread",
+    "Flax Seed",
+    "Flaxseed Oil",
+    "Flour",
+    "Forest Salad",
+    "Fried Camas",
+    "Fried Fiddleheads",
+    "Fried Hare Haunches",
+    "Fried Hearts Of Palm",
+    "Fried Taro",
+    "Fried Tomatoes",
+    "Fruit",
+    "Fruit Muffin",
+    "Fruit Salad",
+    "Fruit Tart",
+    "Fungus",
+    "Fur Pelt",
+    "Giant Cactus Fruit",
+    "Glass",
+    "Grain",
+    "Grassland Salad",
+    "Greens",
+    "Hare Carcass",
+    "Heart Of Palm",
+    "Hearty Hometown Pizza",
+    "Hosomaki",
+    "Huckleberries",
+    "Huckleberry Extract",
+    "Huckleberry Fritter",
+    "Huckleberry Pie",
+    "Infused Oil",
+    "Ink",
+    "Jungle Campfire Salad",
+    "Jungle Campfire Stew",
+    "Kelp",
+    "Kelpy Crab Roll",
+    "Large Fish",
+    "Leavened Dough",
+    "Loaded Taro Fries",
+    "Macarons",
+    "Meat Pie",
+    "Meat Stock",
+    "Meaty Stew",
+    "Medium Carcass",
+    "Medium Fish",
+    "Medium Leather Carcass",
+    "Medium Wooly Carcass",
+    "Melting Fat",
+    "Millionaires Salad",
+    "Mixed Fruit Salad",
+    "Mixed Salad",
+    "Mixed Vegetable Medley",
+    "Mochi",
+    "Mushroom Medley",
+    "Oil",
+    "Oil Paint",
+    "Pacific Sardine",
+    "Papaya",
+    "Pastry Dough",
+    "Petals",
+    "Phad Thai",
+    "Pineapple",
+    "Pineapple Friend Rice",
+    "Pirozhok",
+    "Poke Bowl",
+    "Prepared Meat",
+    "Prickly Pear Fruit",
+    "Prime Cut",
+    "Pumpkin",
+    "Pupusas",
+    "Rainforest Fruit Salad",
+    "Rainforest Salad",
+    "Raw Bacon",
+    "Raw Fish",
+    "Raw Meat",
+    "Raw Roast",
+    "Raw Sausage",
+    "Refine Tallow",
+    "Render Fat",
+    "Rice",
+    "Rice Flour",
+    "Rice Noodles",
+    "Roast Pumpkin",
+    "Root Campfire Salad",
+    "Root Campfire Stew",
+    "Scrap Meat",
+    "Seared Meat",
+    "Seeded Camas Roll",
+    "Sensuous Sea Pizza",
+    "Shark Fillet Soup",
+    "Simmered Meat",
+    "Simple Syrup",
+    "Small Carcass",
+    "Small Fish",
+    "Smooth Gut Noodle Roll",
+    "Spiky Roll",
+    "Stuffed Turkey",
+    "Sugar",
+    "Sun Cheese",
+    "Sunflower Oil",
+    "Sunflower Seed",
+    "Sweet Jerky",
+    "Sweet Salad",
+    "Tallow",
+    "Tanning Leather",
+    "Taro Fries",
+    "Taro Root",
+    "Tasty Tropical Pizza",
+    "Tiny Carcass",
+    "Tiny Fur Carcass",
+    "Tiny Leather Carcass",
+    "Tomato",
+    "Topped Porridge",
+    "Tortilla",
+    "Tuna",
+    "Urchin",
+    "Vegetable",
+    "Vegetable Medley",
+    "Vegetable Soup",
+    "Vegetable Stock",
+    "Wheat",
+    "Wild Mix",
+    "Wild Stew",
+    "Wilted Fiddleheads",
+    "Worldly Donut",
+    "Yeast"
+  ],
+  "products": [
+    {
+      "name": "Computer Lab Lunch",
+      "table": "Bakery Oven",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Boiled Sausage",
+          "amount": 60
+        },
+        {
+          "id": "Bread",
+          "amount": 60
+        }
+      ]
+    },
+    {
+      "name": "Ink",
+      "table": "Mill",
+      "amount": 2,
+      "recipe": [
+        {
+          "id": "Charcoal",
+          "amount": 1
+        },
+        {
+          "id": "Glass",
+          "amount": 1
+        },
+        {
+          "id": "Oil",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Oil Paint",
+      "table": "Mill",
+      "amount": 4,
+      "recipe": [
+        {
+          "id": "Colored Powder",
+          "amount": 4
+        },
+        {
+          "id": "Flaxseed Oil",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Wilted Fiddleheads",
+      "table": "Campfire",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Fiddleheads",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Baked Beet",
+      "table": "Bakery Oven",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Beet",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "name": "Charred Papaya",
+      "table": "Campfire",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Papaya",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Fish N Chips",
+      "table": "Kitchen",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Raw Fish",
+          "amount": 8
+        },
+        {
+          "id": "Taro Fries",
+          "amount": 4
+        },
+        {
+          "id": "Flour",
+          "amount": 2
+        },
+        {
+          "id": "Oil",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Meaty Stew",
+      "table": "Campfire",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Charred Meat",
+          "amount": 2
+        },
+        {
+          "id": "Scrap Meat",
+          "amount": 1
+        },
+        {
+          "id": "Flour",
+          "amount": 1
+        },
+        {
+          "id": "Fat",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Fried Tomatoes",
+      "table": "Campfire",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Tomato",
+          "amount": 1
+        },
+        {
+          "id": "Fat",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Banh Xeo",
+      "table": "Stove",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Rice Flour",
+          "amount": 8
+        },
+        {
+          "id": "Prime Cut",
+          "amount": 4
+        },
+        {
+          "id": "Bean Sprout",
+          "amount": 2
+        },
+        {
+          "id": "Crab Carcass",
+          "amount": 2
+        },
+        {
+          "id": "Oil",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Root Campfire Salad",
+      "table": "Campfire",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Camas Bulb",
+          "amount": 1
+        },
+        {
+          "id": "Taro Root",
+          "amount": 1
+        },
+        {
+          "id": "Greens",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Fruit Tart",
+      "table": "Bakery Oven",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Pastry Dough",
+          "amount": 1
+        },
+        {
+          "id": "Fruit",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "name": "Tasty Tropical Pizza",
+      "table": "Bakery Oven",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Leavened Dough",
+          "amount": 2
+        },
+        {
+          "id": "Raw Bacon",
+          "amount": 2
+        },
+        {
+          "id": "Pineapple",
+          "amount": 1
+        },
+        {
+          "id": "Sun Cheese",
+          "amount": 4
+        },
+        {
+          "id": "Tomato",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Macarons",
+      "table": "Bakery Oven",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Pastry Dough",
+          "amount": 2
+        },
+        {
+          "id": "Sugar",
+          "amount": 5
+        },
+        {
+          "id": "Huckleberry Extract",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Charred Agave",
+      "table": "Campfire",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Agave Leaves",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Acorn Powder",
+      "table": "Mill",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Acorn",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "name": "Fried Hare Haunches",
+      "table": "Stove",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Flour",
+          "amount": 8
+        },
+        {
+          "id": "Prepared Meat",
+          "amount": 4
+        },
+        {
+          "id": "Oil",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "name": "Fried Hearts Of Palm",
+      "table": "Campfire",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Heart Of Palm",
+          "amount": 1
+        },
+        {
+          "id": "Fat",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Boiled Grains",
+      "table": "Campfire",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Grain",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Charred Heart Of Palm",
+      "table": "Campfire",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Heart Of Palm",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Huckleberry Fritter",
+      "table": "Bakery Oven",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Sugar",
+          "amount": 2
+        },
+        {
+          "id": "Pastry Dough",
+          "amount": 1
+        },
+        {
+          "id": "Huckleberry Extract",
+          "amount": 2
+        },
+        {
+          "id": "Oil",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Fried Camas",
+      "table": "Campfire",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Camas Bulb",
+          "amount": 1
+        },
+        {
+          "id": "Fat",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Bearclaw",
+      "table": "Bakery Oven",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Pastry Dough",
+          "amount": 1
+        },
+        {
+          "id": "Sugar",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "name": "Roast Pumpkin",
+      "table": "Bakery Oven",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Pumpkin",
+          "amount": 2
+        },
+        {
+          "id": "Sugar",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Smooth Gut Noodle Roll",
+      "table": "Cast Iron Stove",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Rice Noodles",
+          "amount": 4
+        },
+        {
+          "id": "Prepared Meat",
+          "amount": 4
+        },
+        {
+          "id": "Oil",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Vegetable Soup",
+      "table": "Cast Iron Stove",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Vegetable Stock",
+          "amount": 1
+        },
+        {
+          "id": "Vegetable Medley",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Fantastic Forest Pizza",
+      "table": "Bakery Oven",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Leavened Dough",
+          "amount": 2
+        },
+        {
+          "id": "Camas Bulb",
+          "amount": 1
+        },
+        {
+          "id": "Sun Cheese",
+          "amount": 4
+        },
+        {
+          "id": "Tomato",
+          "amount": 2
+        },
+        {
+          "id": "Greens",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Pupusas",
+      "table": "Cast Iron Stove",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Cornmeal",
+          "amount": 4
+        },
+        {
+          "id": "Tomato",
+          "amount": 2
+        },
+        {
+          "id": "Beans",
+          "amount": 2
+        },
+        {
+          "id": "Sun Cheese",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Camas Bread",
+      "table": "Bakery Oven",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Camas Paste",
+          "amount": 1
+        },
+        {
+          "id": "Leavened Dough",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Charred Cactus Fruit",
+      "table": "Campfire",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Giant Cactus Fruit",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Wild Stew",
+      "table": "Campfire",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Huckleberries",
+          "amount": 2
+        },
+        {
+          "id": "Beans",
+          "amount": 1
+        },
+        {
+          "id": "Beet",
+          "amount": 1
+        },
+        {
+          "id": "Flour",
+          "amount": 1
+        },
+        {
+          "id": "Vegetable",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Baked Tomato",
+      "table": "Bakery Oven",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Tomato",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "name": "Boiled Sausage",
+      "table": "Stove",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Raw Sausage",
+          "amount": 4
+        },
+        {
+          "id": "Meat Stock",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "name": "Bean Paste",
+      "table": "Mill",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Beans",
+          "amount": 6
+        }
+      ]
+    },
+    {
+      "name": "Root Campfire Stew",
+      "table": "Campfire",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Beet",
+          "amount": 1
+        },
+        {
+          "id": "Camas Bulb",
+          "amount": 1
+        },
+        {
+          "id": "Scrap Meat",
+          "amount": 1
+        },
+        {
+          "id": "Flour",
+          "amount": 1
+        },
+        {
+          "id": "Fat",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Hosomaki",
+      "table": "Kitchen",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Boiled Rice",
+          "amount": 5
+        },
+        {
+          "id": "Kelp",
+          "amount": 4
+        },
+        {
+          "id": "Raw Fish",
+          "amount": 10
+        }
+      ]
+    },
+    {
+      "name": "Kelpy Crab Roll",
+      "table": "Kitchen",
+      "amount": 2,
+      "recipe": [
+        {
+          "id": "Boiled Rice",
+          "amount": 2
+        },
+        {
+          "id": "Kelp",
+          "amount": 2
+        },
+        {
+          "id": "Crab Carcass",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Bannock",
+      "table": "Campfire",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Wheat",
+          "amount": 1
+        },
+        {
+          "id": "Fat",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Fruit Muffin",
+      "table": "Bakery Oven",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Flour",
+          "amount": 4
+        },
+        {
+          "id": "Fruit",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "name": "Agouti Enchiladas",
+      "table": "Stove",
+      "amount": 2,
+      "recipe": [
+        {
+          "id": "Cornmeal",
+          "amount": 4
+        },
+        {
+          "id": "Tomato",
+          "amount": 2
+        },
+        {
+          "id": "Papaya",
+          "amount": 2
+        },
+        {
+          "id": "Sun Cheese",
+          "amount": 4
+        },
+        {
+          "id": "Prime Cut",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Boiled Rice",
+      "table": "Kitchen",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Rice",
+          "amount": 10
+        }
+      ]
+    },
+    {
+      "name": "Fern Campfire Salad",
+      "table": "Campfire",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Fiddleheads",
+          "amount": 1
+        },
+        {
+          "id": "Huckleberries",
+          "amount": 2
+        },
+        {
+          "id": "Vegetable",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Field Campfire Stew",
+      "table": "Campfire",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Corn",
+          "amount": 1
+        },
+        {
+          "id": "Tomato",
+          "amount": 1
+        },
+        {
+          "id": "Scrap Meat",
+          "amount": 1
+        },
+        {
+          "id": "Flour",
+          "amount": 1
+        },
+        {
+          "id": "Fat",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Camas Bulb Bake",
+      "table": "Bakery Oven",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Camas Bulb",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "name": "Charred Fireweed Shoots",
+      "table": "Campfire",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Fireweed Shoots",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Baked Meat",
+      "table": "Bakery Oven",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Raw Meat",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Baked Roast",
+      "table": "Bakery Oven",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Raw Roast",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Fried Fiddleheads",
+      "table": "Campfire",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Fiddleheads",
+          "amount": 1
+        },
+        {
+          "id": "Fat",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Huckleberry Pie",
+      "table": "Bakery Oven",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Flour",
+          "amount": 4
+        },
+        {
+          "id": "Huckleberries",
+          "amount": 10
+        },
+        {
+          "id": "Fat",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Charred Sausage",
+      "table": "Campfire",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Raw Sausage",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Baked Corn",
+      "table": "Bakery Oven",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Corn",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "name": "Jungle Campfire Salad",
+      "table": "Campfire",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Papaya",
+          "amount": 1
+        },
+        {
+          "id": "Pineapple",
+          "amount": 1
+        },
+        {
+          "id": "Heart Of Palm",
+          "amount": 1
+        },
+        {
+          "id": "Greens",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Charred Beans",
+      "table": "Campfire",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Beans",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Loaded Taro Fries",
+      "table": "Cast Iron Stove",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Taro Fries",
+          "amount": 1
+        },
+        {
+          "id": "Sun Cheese",
+          "amount": 2
+        },
+        {
+          "id": "Prepared Meat",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Seared Meat",
+      "table": "Stove",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Prime Cut",
+          "amount": 2
+        },
+        {
+          "id": "Infused Oil",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Spiky Roll",
+      "table": "Kitchen",
+      "amount": 2,
+      "recipe": [
+        {
+          "id": "Boiled Rice",
+          "amount": 2
+        },
+        {
+          "id": "Urchin",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Shark Fillet Soup",
+      "table": "Cast Iron Stove",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Meat Stock",
+          "amount": 2
+        },
+        {
+          "id": "Blue Shark",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Bear S U P R E M E",
+      "table": "Stove",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Prime Cut",
+          "amount": 4
+        },
+        {
+          "id": "Vegetable Medley",
+          "amount": 2
+        },
+        {
+          "id": "Meat Stock",
+          "amount": 2
+        },
+        {
+          "id": "Infused Oil",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Baked Agave",
+      "table": "Bakery Oven",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Agave Leaves",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "name": "Worldly Donut",
+      "table": "Bakery Oven",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Sugar",
+          "amount": 2
+        },
+        {
+          "id": "Pastry Dough",
+          "amount": 1
+        },
+        {
+          "id": "Oil",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Beet Campfire Salad",
+      "table": "Campfire",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Beet",
+          "amount": 1
+        },
+        {
+          "id": "Fruit",
+          "amount": 1
+        },
+        {
+          "id": "Greens",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Meat Pie",
+      "table": "Bakery Oven",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Flour",
+          "amount": 4
+        },
+        {
+          "id": "Scrap Meat",
+          "amount": 12
+        },
+        {
+          "id": "Fat",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Clam Chowder",
+      "table": "Cast Iron Stove",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Clam",
+          "amount": 4
+        },
+        {
+          "id": "Taro Root",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Elk Wellington",
+      "table": "Bakery Oven",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Leavened Dough",
+          "amount": 2
+        },
+        {
+          "id": "Prime Cut",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "name": "Pineapple Friend Rice",
+      "table": "Kitchen",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Charred Pineapple",
+          "amount": 5
+        },
+        {
+          "id": "Boiled Rice",
+          "amount": 5
+        },
+        {
+          "id": "Scrap Meat",
+          "amount": 10
+        }
+      ]
+    },
+    {
+      "name": "Sensuous Sea Pizza",
+      "table": "Bakery Oven",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Leavened Dough",
+          "amount": 2
+        },
+        {
+          "id": "Raw Fish",
+          "amount": 2
+        },
+        {
+          "id": "Kelp",
+          "amount": 2
+        },
+        {
+          "id": "Sun Cheese",
+          "amount": 4
+        },
+        {
+          "id": "Tomato",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Simmered Meat",
+      "table": "Cast Iron Stove",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Prepared Meat",
+          "amount": 2
+        },
+        {
+          "id": "Meat Stock",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Flatbread",
+      "table": "Bakery Oven",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Flour",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "name": "Fried Taro",
+      "table": "Campfire",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Taro Root",
+          "amount": 1
+        },
+        {
+          "id": "Fat",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Sweet Salad",
+      "table": "Kitchen",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Basic Salad",
+          "amount": 2
+        },
+        {
+          "id": "Fruit Salad",
+          "amount": 2
+        },
+        {
+          "id": "Simple Syrup",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "name": "Jungle Campfire Stew",
+      "table": "Campfire",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Papaya",
+          "amount": 1
+        },
+        {
+          "id": "Scrap Meat",
+          "amount": 1
+        },
+        {
+          "id": "Flour",
+          "amount": 1
+        },
+        {
+          "id": "Fat",
+          "amount": 1
+        },
+        {
+          "id": "Fungus",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Baked Taro",
+      "table": "Bakery Oven",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Taro Root",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "name": "Topped Porridge",
+      "table": "Campfire",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Boiled Grains",
+          "amount": 1
+        },
+        {
+          "id": "Fruit",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Pirozhok",
+      "table": "Bakery Oven",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Pastry Dough",
+          "amount": 1
+        },
+        {
+          "id": "Prepared Meat",
+          "amount": 2
+        },
+        {
+          "id": "Fungus",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Mochi",
+      "table": "Cast Iron Stove",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Rice Flour",
+          "amount": 4
+        },
+        {
+          "id": "Sugar",
+          "amount": 2
+        },
+        {
+          "id": "Cornmeal",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Charred Tomato",
+      "table": "Campfire",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Tomato",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Infused Oil",
+      "table": "Kitchen",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Huckleberry Extract",
+          "amount": 2
+        },
+        {
+          "id": "Oil",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Baked Heart Of Palm",
+      "table": "Bakery Oven",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Heart Of Palm",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "name": "Charred Taro",
+      "table": "Campfire",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Taro Root",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Oil",
+      "table": "Mill",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Cereal Germ",
+          "amount": 8
+        }
+      ]
+    },
+    {
+      "name": "Corn Fritters",
+      "table": "Stove",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Cornmeal",
+          "amount": 6
+        },
+        {
+          "id": "Corn",
+          "amount": 4
+        },
+        {
+          "id": "Fat",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "name": "Phad Thai",
+      "table": "Cast Iron Stove",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Rice Noodles",
+          "amount": 4
+        },
+        {
+          "id": "Prepared Meat",
+          "amount": 2
+        },
+        {
+          "id": "Bean Sprout",
+          "amount": 2
+        },
+        {
+          "id": "Sugar",
+          "amount": 2
+        },
+        {
+          "id": "Acorn",
+          "amount": 1
+        },
+        {
+          "id": "Oil",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Charred Mushrooms",
+      "table": "Campfire",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Fungus",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Hearty Hometown Pizza",
+      "table": "Bakery Oven",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Leavened Dough",
+          "amount": 2
+        },
+        {
+          "id": "Crimini Mushrooms",
+          "amount": 1
+        },
+        {
+          "id": "Raw Sausage",
+          "amount": 2
+        },
+        {
+          "id": "Sun Cheese",
+          "amount": 4
+        },
+        {
+          "id": "Tomato",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Crimson Salad",
+      "table": "Kitchen",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Basic Salad",
+          "amount": 2
+        },
+        {
+          "id": "Infused Oil",
+          "amount": 2
+        },
+        {
+          "id": "Charred Beet",
+          "amount": 4
+        },
+        {
+          "id": "Tomato",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "name": "Elk Taco",
+      "table": "Stove",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Scrap Meat",
+          "amount": 10
+        },
+        {
+          "id": "Tortilla",
+          "amount": 2
+        },
+        {
+          "id": "Wild Mix",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Campfire Roast",
+      "table": "Campfire",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Raw Roast",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Charred Camas Bulb",
+      "table": "Campfire",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Camas Bulb",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Crispy Bacon",
+      "table": "Cast Iron Stove",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Raw Bacon",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "name": "Seeded Camas Roll",
+      "table": "Kitchen",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Boiled Rice",
+          "amount": 2
+        },
+        {
+          "id": "Kelp",
+          "amount": 2
+        },
+        {
+          "id": "Camas Paste",
+          "amount": 2
+        },
+        {
+          "id": "Fiddleheads",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Flaxseed Oil",
+      "table": "Mill",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Flax Seed",
+          "amount": 16
+        }
+      ]
+    },
+    {
+      "name": "Bison Chow Fun",
+      "table": "Stove",
+      "amount": 4,
+      "recipe": [
+        {
+          "id": "Rice Noodles",
+          "amount": 4
+        },
+        {
+          "id": "Bean Sprout",
+          "amount": 2
+        },
+        {
+          "id": "Bison Carcass",
+          "amount": 2
+        },
+        {
+          "id": "Oil",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Autumn Stew",
+      "table": "Cast Iron Stove",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Pumpkin",
+          "amount": 2
+        },
+        {
+          "id": "Beans",
+          "amount": 4
+        },
+        {
+          "id": "Greens",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Stuffed Turkey",
+      "table": "Bakery Oven",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Prime Cut",
+          "amount": 4
+        },
+        {
+          "id": "Bread",
+          "amount": 1
+        },
+        {
+          "id": "Vegetable Medley",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Charred Corn",
+      "table": "Campfire",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Corn",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Millionaires Salad",
+      "table": "Kitchen",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Heart Of Palm",
+          "amount": 6
+        },
+        {
+          "id": "Cookeina Mushrooms",
+          "amount": 8
+        },
+        {
+          "id": "Papaya",
+          "amount": 12
+        },
+        {
+          "id": "Pineapple",
+          "amount": 6
+        }
+      ]
+    },
+    {
+      "name": "Poke Bowl",
+      "table": "Stove",
+      "amount": 2,
+      "recipe": [
+        {
+          "id": "Boiled Rice",
+          "amount": 2
+        },
+        {
+          "id": "Beans",
+          "amount": 4
+        },
+        {
+          "id": "Kelp",
+          "amount": 2
+        },
+        {
+          "id": "Tuna",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Exotic Fruit Salad",
+      "table": "Cast Iron Stove",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Prickly Pear Fruit",
+          "amount": 10
+        },
+        {
+          "id": "Pumpkin",
+          "amount": 6
+        }
+      ]
+    },
+    {
+      "name": "Fish Stock",
+      "table": "Cast Iron Stove",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Raw Fish",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "name": "Campfire Animal Tiny",
+      "table": "Campfire",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Tiny Carcass",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Tanning Leather",
+      "table": "Butchery Table",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Fur Pelt",
+          "amount": 2
+        }
+      ]
+    },
+    {
+      "name": "Refine Tallow",
+      "table": "Stove",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Tallow",
+          "amount": 18
+        }
+      ]
+    },
+    {
+      "name": "Campfire Fish Large",
+      "table": "Campfire",
+      "amount": 5,
+      "recipe": [
+        {
+          "id": "Large Fish",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Cottonseed Oil",
+      "table": "Mill",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Cotton Seed",
+          "amount": 16
+        }
+      ]
+    },
+    {
+      "name": "Forest Salad",
+      "table": "Cast Iron Stove",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Fiddleheads",
+          "amount": 6
+        },
+        {
+          "id": "Huckleberries",
+          "amount": 8
+        },
+        {
+          "id": "Beans",
+          "amount": 6
+        }
+      ]
+    },
+    {
+      "name": "Sweet Jerky",
+      "table": "Fish Rack",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Raw Meat",
+          "amount": 1
+        },
+        {
+          "id": "Sugar",
+          "amount": 1
+        },
+        {
+          "id": "Oil",
+          "amount": 1
+        },
+        {
+          "id": "Fruit",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Sunflower Oil",
+      "table": "Mill",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Sunflower Seed",
+          "amount": 16
+        }
+      ]
+    },
+    {
+      "name": "Beet Sugar",
+      "table": "Mill",
+      "amount": 3,
+      "recipe": [
+        {
+          "id": "Beet",
+          "amount": 6
+        }
+      ]
+    },
+    {
+      "name": "Grassland Salad",
+      "table": "Cast Iron Stove",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Corn",
+          "amount": 5
+        },
+        {
+          "id": "Tomato",
+          "amount": 6
+        },
+        {
+          "id": "Beet",
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "name": "Mixed Vegetable Medley",
+      "table": "Cast Iron Stove",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Corn",
+          "amount": 6
+        },
+        {
+          "id": "Camas Bulb",
+          "amount": 6
+        }
+      ]
+    },
+    {
+      "name": "Render Fat",
+      "table": "Campfire",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Scrap Meat",
+          "amount": 10
+        }
+      ]
+    },
+    {
+      "name": "Campfire Animal Small",
+      "table": "Campfire",
+      "amount": 2,
+      "recipe": [
+        {
+          "id": "Small Carcass",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Fish Stew",
+      "table": "Campfire",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Charred Fish",
+          "amount": 4
+        },
+        {
+          "id": "Flour",
+          "amount": 1
+        },
+        {
+          "id": "Fat",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Campfire Bison",
+      "table": "Campfire",
+      "amount": 8,
+      "recipe": [
+        {
+          "id": "Bison Carcass",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Campfire Fish Small",
+      "table": "Campfire",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Small Fish",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Campfire Animal Medium",
+      "table": "Campfire",
+      "amount": 4,
+      "recipe": [
+        {
+          "id": "Medium Carcass",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Mushroom Medley",
+      "table": "Cast Iron Stove",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Crimini Mushrooms",
+          "amount": 4
+        },
+        {
+          "id": "Cookeina Mushrooms",
+          "amount": 4
+        },
+        {
+          "id": "Bolete Mushrooms",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "name": "Mixed Fruit Salad",
+      "table": "Cast Iron Stove",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Huckleberries",
+          "amount": 10
+        },
+        {
+          "id": "Beet",
+          "amount": 6
+        }
+      ]
+    },
+    {
+      "name": "Campfire Fish Medium",
+      "table": "Campfire",
+      "amount": 2,
+      "recipe": [
+        {
+          "id": "Medium Fish",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "name": "Mixed Salad",
+      "table": "Cast Iron Stove",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Fiddleheads",
+          "amount": 6
+        },
+        {
+          "id": "Tomato",
+          "amount": 6
+        },
+        {
+          "id": "Fireweed Shoots",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "name": "Melting Fat",
+      "table": "Bakery Oven",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Scrap Meat",
+          "amount": 6
+        }
+      ]
+    },
+    {
+      "name": "Campfire Pacific Sardine",
+      "table": "Campfire",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Pacific Sardine",
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "name": "Exotic Vegetable Medley",
+      "table": "Cast Iron Stove",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Beans",
+          "amount": 8
+        },
+        {
+          "id": "Tomato",
+          "amount": 6
+        },
+        {
+          "id": "Beet",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "name": "Rainforest Salad",
+      "table": "Cast Iron Stove",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Taro Root",
+          "amount": 4
+        },
+        {
+          "id": "Bolete Mushrooms",
+          "amount": 8
+        },
+        {
+          "id": "Papaya",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "name": "Exotic Salad",
+      "table": "Cast Iron Stove",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Prickly Pear Fruit",
+          "amount": 4
+        },
+        {
+          "id": "Crimini Mushrooms",
+          "amount": 4
+        },
+        {
+          "id": "Rice",
+          "amount": 4
+        }
+      ]
+    },
+    {
+      "name": "Rainforest Fruit Salad",
+      "table": "Cast Iron Stove",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Papaya",
+          "amount": 10
+        },
+        {
+          "id": "Pineapple",
+          "amount": 8
+        }
+      ]
+    },
+    {
+      "name": "Fish Oil",
+      "table": "Mill",
+      "amount": 1,
+      "recipe": [
+        {
+          "id": "Raw Fish",
+          "amount": 6
+        }
+      ]
+    }
+  ]
+}
