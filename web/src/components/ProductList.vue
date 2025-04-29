@@ -1,7 +1,6 @@
 <template>
-  <v-container fluid>
     <!-- Loop over each table group -->
-    <v-expansion-panels accordion>
+    <v-expansion-panels accordion multiple>
       <v-expansion-panel
         v-for="([table, products]) in sortedTables"
         :key="table"
@@ -25,7 +24,7 @@
                     </div>
                   </div>
                 <div class="mb-2">
-                  <p>Products per run: <b>{{ prod.amount }}</b></p>
+                  <p>Products per run: <b>{{ prod.product_amount }}</b></p>
                 </div>
                 <div class="d-flex align-center">
                     <!-- number input bound to target level -->
@@ -71,7 +70,6 @@
         </v-expansion-panel-text>
       </v-expansion-panel>
     </v-expansion-panels>
-  </v-container>
 </template>
 
 <script setup lang="ts">
@@ -112,12 +110,12 @@ const sortedTables = computed<[string, Product[]][]>(() => {
 <style scoped>
 /* Optional: tweak card styling */
 .v-card {
-  border: 1px solid #e0e0e0;
+  border: 1px solid #5c636c;
 }
 .placeholder-square {
   width: 40px;
   height: 40px;
-  background-color: #e0e0e0;
+  background-color: #40454d;
   flex-shrink: 0;
 }
 </style>

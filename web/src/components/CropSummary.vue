@@ -1,5 +1,4 @@
 <template>
-  <v-container>
     <v-table>
       <thead>
         <tr>
@@ -8,19 +7,18 @@
         </tr>
       </thead>
       <tbody>
-        <tr v-for="crop in sortedCrops" :key="crop">
+        <tr v-for="_, crop in amounts" :key="crop">
           <td>{{ crop }}</td>
-          <td>
+          <td :class="{ 'text-red': amounts[crop] > 0 }">
             <b>{{ amounts[crop] }}</b>
           </td>
         </tr>
       </tbody>
     </v-table>
-  </v-container>
 </template>
 
 <script setup lang="ts">
-import { reactive, computed } from 'vue'
+import { computed } from 'vue'
 import type {Data} from "@/interfaces/data.ts";
 
 // Props: list of crop names
@@ -30,16 +28,26 @@ const props = defineProps<{
   targets: Record<string, number>
 }>()
 
-// Reactive map of crop name -> amount
-const amounts = reactive<Record<string, number>>({})
-// Initialize all amounts to zero
-props.data.crops.forEach(crop => {
-  amounts[crop] = 0
-})
 
-// Sorted list of crops
-const sortedCrops = computed(() => {
-  return [...props.data.crops].sort((a, b) => a.localeCompare(b))
+// Computed map of crop name -> required amount
+const amounts = computed(() => {
+  const result: Record<string, number> = {}
+  // initialize all to zero
+  for (const crop of props.data.crops) {
+    result[crop] = 0
+  }
+  // calculate required amounts based on product diffs
+  for (const product of props.data.products) {
+    const targetAmount = props.targets[product.name] ?? 0
+    const currentAmount = props.current[product.name] ?? 0
+    const diff = targetAmount - currentAmount
+    if (diff > 0) {
+      for (const ingredient of product.recipe) {
+        result[ingredient.id] = (result[ingredient.id] || 0) + ingredient.amount * diff
+      }
+    }
+  }
+  return result
 })
 </script>
 

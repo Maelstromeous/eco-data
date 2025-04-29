@@ -2,7 +2,7 @@ export interface Ingredient { id: string; amount: number }
 export interface Product {
   name: string
   table: string
-  amount: number
+  product_amount: number
   recipe: Ingredient[]
 }
 
