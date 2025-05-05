@@ -7,8 +7,13 @@
         </tr>
       </thead>
       <tbody>
-        <tr v-for="_, crop in amounts" :key="crop">
-          <td>{{ crop }}</td>
+        <tr v-for="(_, crop) in amounts" :key="crop">
+          <td>
+            <div class="d-flex align-center">
+              <div class="placeholder-square mr-2"></div>
+              <div>{{ crop }}</div>
+            </div>
+          </td>
           <td :class="{ 'text-red': amounts[crop] > 0 }">
             <b>{{ amounts[crop] }}</b>
           </td>

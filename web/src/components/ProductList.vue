@@ -107,7 +107,7 @@ const sortedTables = computed<[string, Product[]][]>(() => {
 
 </script>
 
-<style scoped>
+<style>
 /* Optional: tweak card styling */
 .v-card {
   border: 1px solid #5c636c;
